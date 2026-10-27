@@ -1,0 +1,8 @@
+{
+  "package": "com.parami.movie",
+  "versionCode": 4,
+  "versionName": "1.3",
+  "certSha256": "44426ff7667d5fa47616d765e5df472ee4feb9598285e17648c7e6c3f3bd4355",
+  "apkUrl": "https://github.com/ziyinpromax/flash-pro/releases/download/v1.3/ParamiMovie.apk",
+  "apkSha256": "cc0de7bcc96034b63aff77c6431ed4c7c67c38b62f99632bd1b8d4340b0aa7bd"
+}
